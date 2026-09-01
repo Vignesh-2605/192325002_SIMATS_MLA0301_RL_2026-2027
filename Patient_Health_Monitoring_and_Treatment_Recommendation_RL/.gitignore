@@ -1,0 +1,23 @@
+# generated experiment output
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# environments
+venv/
+.venv/
+env/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
