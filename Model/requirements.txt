@@ -1,0 +1,12 @@
+# Reinforcement Learning — model scripts
+#
+#   q01_simplified_chess_mdp.py                    numpy
+#   q05_ad_recommendation_epsilon_greedy_bandit.py numpy
+#   q09_warehouse_robot_td_sarsa_qlearning.py      numpy
+#   q10_drone_delivery_dqn.py                      numpy, torch
+#
+# Install with:  pip install -r requirements.txt
+# Python 3.9 or newer.
+
+numpy>=1.24
+torch>=2.0
